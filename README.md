@@ -9,7 +9,7 @@ I'm a young dev but I'm currently improving my skills in the school" La Platefor
  - [My Youtube channel ( pretty empty )](https://www.youtube.com/channel/UChmOVoDjht-Fntdktv7tPSQ)
  - [My Twitter/X ( blank too )](https://x.com/Mehdi_Choucha_)
 
-## My skills
+## Skills : 
 
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/Mehdichoucha/Mehdichoucha/blob/main/Skills.png" />
