@@ -14,3 +14,9 @@ I'm a young dev but I'm currently improving my skills in the school" La Platefor
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/Mehdichoucha/Mehdichoucha/blob/main/Skills.png" />
 </p>
+
+## Projects : 
+
+<a href="https://github.com/Mehdichoucha/Projet-Tic-Tac-Toe">
+  <img align="center" src="https://github.com/Mehdichoucha/Mehdichoucha/blob/main/tictactoe%20project.png" />
+</a>
